@@ -1,0 +1,7 @@
+[{
+    "name": "Dashboard",
+    "route": "/dashboard"
+},{
+    "name": "Industry",
+    "route": "/industry"
+}]
