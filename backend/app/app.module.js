@@ -5,7 +5,6 @@
         .module('myApp', [
             'ngRoute',
             'ngResource',
-            'ngTouch',
             'ngCookies'
         ])
         .config(config);
